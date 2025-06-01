@@ -11,7 +11,7 @@
   "customizations": {
     "vscode": {
         "extensions": [
-            "christian-kohler.path-intellisense"
+            "path-intellisense"
         ]
     },
     "codespaces": {
